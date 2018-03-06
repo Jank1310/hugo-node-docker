@@ -1,6 +1,6 @@
 FROM node:8
 
-ENV HUGO_VERSION 0.36
+ENV HUGO_VERSION 0.37
 
 # Install HUGO
 RUN set -x && \
